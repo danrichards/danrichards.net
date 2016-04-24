@@ -7,7 +7,7 @@
                     <div class="site-heading">
                         <h1>Hello, I'm Dan</h1>
                         <hr class="small">
-                        <span class="subheading">A Web Developer, at large.</span>
+                        <span class="subheading">Software Engineer, at large.</span>
                     </div>
                 </div>
             </div>
