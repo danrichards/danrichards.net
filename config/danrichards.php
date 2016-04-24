@@ -6,9 +6,9 @@ return [
     'views' => [
         'nav' => [
             'danrichards.net' => [
-                'Home' => '/',
+//                'Home' => '/',
                 'Resume' => 'Resume.DRichards.Software.Engineer.pdf',
-                'Talk' => 'contact'
+//                'Talk' => 'contact'
             ],
             'danrichards.laravel' => [
                 'Home' => '/',
