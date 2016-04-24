@@ -25,12 +25,12 @@ return [
      */
     'recaptcha' => [
         'danrichards.laravel' => [
-            'public' => '6LcQaf4SAAAAADxUMdvJm3PUOT64HRjqE2xXrzhm',
-            'private' => '6LcQaf4SAAAAAGMFuCkmHWQu7GNyZZhabEwIcjh-'
+            'public' => env('RECAPTCHA_PUBLIC'),
+            'private' => env('RECAPTCHA_PRIVATE')
         ],
         'danrichards.net' => [
-            'public' => '6LcQaf4SAAAAADxUMdvJm3PUOT64HRjqE2xXrzhm',
-            'private' => '6LcQaf4SAAAAAGMFuCkmHWQu7GNyZZhabEwIcjh-'
+            'public' => env('RECAPTCHA_PUBLIC'),
+            'private' => env('RECAPTCHA_PRIVATE')
         ]
     ]
 ];
